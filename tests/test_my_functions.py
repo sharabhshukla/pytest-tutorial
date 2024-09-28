@@ -36,11 +36,6 @@ def test_very_slow():
     result = my_functions.divide(10, 5)
     assert result == 2
 
-@pytest.mark.skip(reson="This feature is currently broken")
-def test_skips():
-    assert 1 == 1
-
-
 
 def test_divide_by_zero():
     with pytest.raises(ValueError):
