@@ -6,8 +6,8 @@ idna==3.10
 iniconfig==2.0.0
 packaging==24.1
 pluggy==1.5.0
-pydantic==2.9.2
-pydantic_core==2.23.4
+pydantic==1.10.18
+pydantic_core==2.24.0
 pytest==8.3.3
 pytest-cov==5.0.0
 requests==2.32.3
