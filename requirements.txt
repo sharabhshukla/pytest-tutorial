@@ -1,7 +1,7 @@
 annotated-types==0.7.0
 certifi==2024.8.30
 charset-normalizer==3.3.2
-coverage==7.6.1
+coverage==7.6.4
 idna==3.10
 iniconfig==2.0.0
 packaging==24.1
