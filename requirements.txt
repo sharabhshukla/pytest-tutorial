@@ -1,5 +1,5 @@
 annotated-types==0.7.0
-certifi==2024.8.30
+certifi==2024.12.14
 charset-normalizer==3.3.2
 coverage==7.6.1
 idna==3.10
